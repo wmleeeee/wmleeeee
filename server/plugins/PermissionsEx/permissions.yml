@@ -1,0 +1,21 @@
+groups:
+  default:
+    options:
+      default: true
+    prefix: '인간'
+    permissions:
+    - modifyworld.*
+    - jobs.use
+    - jobs.world.world
+    - jobs.join.miner
+    - jobs.join.hunter
+    - jobs.join.woodcutter
+    - jobs.join.farmer
+    - jobs.use.transfer
+    - jobs.command.*
+    - MysqlEconomyBank.cmd.balance
+    - MysqlEconomyBank.cmd.deposit
+    - MysqlEconomyBank.cmd.withdraw
+    - MysqlEconomyBank.cmd.interest
+    - MysqlEconomyBank.use
+schema-version: 1

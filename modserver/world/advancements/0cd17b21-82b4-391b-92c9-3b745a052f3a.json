@@ -1,0 +1,15 @@
+{
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2019-11-19 16:09:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2019-11-19 16:08:49 +0900",
+      "river": "2019-11-19 16:10:15 +0900"
+    },
+    "done": false
+  }
+}

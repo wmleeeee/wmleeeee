@@ -1,0 +1,217 @@
+[16:44:23] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[16:44:23] [Server thread/INFO]: Loading properties
+[16:44:24] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[16:44:24] [Server thread/INFO]: Debug logging is disabled
+[16:44:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:44:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:44:24] [Server thread/INFO]: Default game type: SURVIVAL
+[16:44:24] [Server thread/INFO]: Generating keypair
+[16:44:25] [Server thread/INFO]: Starting Minecraft server on *:6974
+[16:44:25] [Server thread/INFO]: Using default channel type
+[16:44:31] [Server thread/WARN]: Plugin PermissionsEx v1.23.4 does not specify an api-version.
+[16:44:31] [Server thread/WARN]: Plugin BetterShops v2.1.2 does not specify an api-version.
+[16:44:31] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[16:44:31] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[16:44:31] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[16:44:31] [Server thread/INFO]: [Jobs] Loading Jobs v4.14.3
+[16:44:31] [Server thread/INFO]: [BetterShops] Loading BetterShops v2.1.2
+[16:44:31] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.0.0
+[16:44:31] [Server thread/INFO]: [MysqlEconomyBank] Loading MysqlEconomyBank v1.13.3
+[16:44:31] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[16:44:31] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[16:44:31] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[16:44:31] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:44:31] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[16:44:31] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[16:44:31] [Server thread/INFO]: [MysqlEconomyBank] Enabling MysqlEconomyBank v1.13.3
+[16:44:31] [Server thread/INFO]: [MysqlEconomyBank] Using economy system: Essentials Economy
+[16:44:31] [Server thread/INFO]: [MysqlEconomyBank] Using permission system: PermissionsEx
+[16:44:31] [Server thread/INFO]: [MysqlEconomyBank] Loading the config file...
+[16:44:31] [Server thread/INFO]: [MysqlEconomyBank] MysqlEconomyBank loaded successfully!
+[16:44:31] [Server thread/INFO]: [MysqlEconomyBank] Interest task is disabled.
+[16:44:31] [Server thread/INFO]: [MysqlEconomyBank] MysqlEconomyBank has been successfully loaded!
+[16:44:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:44:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:44:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:44:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:44:31] [Server thread/INFO]: Preparing level "world"
+[16:44:32] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[16:44:33] [Server thread/INFO]: Loaded 6 recipes
+[16:44:33] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:44:33] [Server thread/INFO]: View Distance: 10
+[16:44:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:44:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:44:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:44:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:44:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:44:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:44:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:44:33] [Server thread/INFO]: Mob Spawn Range: 6
+[16:44:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:44:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:44:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:44:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Max TNT Explosions: 100
+[16:44:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:44:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:44:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:44:33] [Server thread/INFO]: View Distance: 10
+[16:44:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:44:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:44:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:44:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:44:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:44:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:44:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:44:33] [Server thread/INFO]: Mob Spawn Range: 6
+[16:44:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:44:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:44:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:44:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Max TNT Explosions: 100
+[16:44:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:44:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:44:33] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:44:33] [Server thread/INFO]: View Distance: 10
+[16:44:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:44:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:44:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:44:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:44:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:44:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:44:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:44:33] [Server thread/INFO]: Mob Spawn Range: 6
+[16:44:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:44:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:44:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:44:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:44:33] [Server thread/INFO]: Max TNT Explosions: 100
+[16:44:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:44:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:44:33] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[16:44:34] [Server thread/INFO]: Preparing spawn area: 0%
+[16:44:34] [Server thread/INFO]: Preparing spawn area: 0%
+[16:44:34] [Server thread/INFO]: Preparing spawn area: 17%
+[16:44:35] [Server thread/INFO]: Time elapsed: 1233 ms
+[16:44:35] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[16:44:35] [Server thread/INFO]: Preparing spawn area: 0%
+[16:44:35] [Server thread/INFO]: Preparing spawn area: 0%
+[16:44:36] [Server-Worker-5/INFO]: Preparing spawn area: 95%
+[16:44:36] [Server-Worker-5/INFO]: Preparing spawn area: 95%
+[16:44:37] [Server-Worker-3/INFO]: Preparing spawn area: 99%
+[16:44:37] [Server thread/INFO]: Time elapsed: 2014 ms
+[16:44:37] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[16:44:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:44:37] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[16:44:38] [Server-Worker-6/INFO]: Preparing spawn area: 92%
+[16:44:38] [Server thread/INFO]: Time elapsed: 1092 ms
+[16:44:38] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[16:44:38] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[16:44:38] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[16:44:38] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[16:44:38] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[16:44:38] [Server thread/INFO]: [Jobs] Enabling Jobs v4.14.3
+[16:44:43] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
+[16:44:43] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 75 protected blocks timers![m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 989 custom item names![m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 66 custom entity names![m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 37 custom enchant names![m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Woodcutter[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Miner[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Builder[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Digger[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Farmer[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Hunter[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Explorer[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Crafter[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Fisherman[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Weaponsmith[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Brewer[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Enchanter[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Explorer job manager registered![m
+[16:44:44] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[16:44:44] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 3 players data in 0.01[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 32 block protection entries. 0[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (112)[m
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled successfully.[m
+[16:44:44] [Server thread/INFO]: [BetterShops] Enabling BetterShops v2.1.2
+[16:44:44] [Server thread/INFO]: [0;36;1mBetterShops[0;37;22m - [0;32;1mEnabling BetterShops [0;33;1m2.1.2[m
+[16:44:44] [Server thread/INFO]: [0;36;1mBetterShops[0;37;22m - [0;31;1mCould not find support for this CraftBukkit version. Currently Supports CB version 1.7.9 RO.3 - Spigot 1.8.R1, You are using [0;35;1mv1_14_R1[0;31;1m. Plugin Disabling![m
+[16:44:44] [Server thread/INFO]: [0;36;1mBetterShops[0;37;22m - [0;33;1mSaving Shops..[m
+[16:44:44] [Server thread/INFO]: [0;36;1mBetterShops[0;37;22m - [0;33;1mSaved![m
+[16:44:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.0.0
+[16:44:44] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[16:44:44] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[16:44:44] [Server thread/INFO]: No kits found to migrate.
+[16:44:44] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:44:44] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[16:44:44] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:44:44] [Server thread/INFO]: Loaded 20977 items from items.json.
+[16:44:44] [Server thread/INFO]: Using locale ko_KR
+[16:44:44] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:44:44] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:44:44] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[16:44:44] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[16:44:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:44:44] [Server thread/INFO]: Done (12.825s)! For help, type "help"
+[16:44:44] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[16:44:44] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[16:44:45] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[16:44:51] [User Authenticator #1/INFO]: UUID of player miok is 0cd17b21-82b4-391b-92c9-3b745a052f3a
+[16:44:51] [Server thread/INFO]: miok[/192.168.0.1:57617] logged in with entity id 189 at ([world]-156.53729817403223, 71.0, -196.4539477193137)
+[16:44:56] [Server thread/INFO]: miok issued server command: /shopkeeper
+[16:45:00] [Server thread/INFO]: miok issued server command: /bank balance
+[16:45:11] [Server thread/INFO]: miok issued server command: /bank balance
+[16:45:22] [Server thread/INFO]: miok issued server command: /bank balance
+[16:45:31] [Server thread/INFO]: miok lost connection: Disconnected
+[16:45:31] [Server thread/INFO]: miok left the game

@@ -1,0 +1,21 @@
+lastAccountName: miok
+timestamps:
+  login: 1574149492154
+  logout: 1574149531086
+ipAddress: 192.168.0.1
+afk: false
+lastlocation:
+  world: world
+  x: -195.87922434567378
+  y: 65.0
+  z: -70.55349224119298
+  yaw: -87.44386
+  pitch: -86.549965
+logoutlocation:
+  world: world
+  x: -147.88312439115433
+  y: 72.0
+  z: -148.70947941804033
+  yaw: -292.85834
+  pitch: 33.74952
+money: '1.9950'

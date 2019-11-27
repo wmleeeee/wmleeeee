@@ -1,0 +1,26 @@
+groups:
+  남기:
+    options:
+      default: true
+    prefix: '&e[NamGi]'
+    permissions:
+    - modifyworld.*
+    - jobs.use
+    - jobs.world.world
+    - jobs.join.miner
+    - jobs.join.hunter
+    - jobs.join.woodcutter
+    - jobs.join.farmer
+    - jobs.use.transfer
+    - jobs.command.*
+    - MysqlEconomyBank.cmd.balance
+    - MysqlEconomyBank.cmd.deposit
+    - MysqlEconomyBank.cmd.withdraw
+    - MysqlEconomyBank.cmd.interest
+    - MysqlEconomyBank.use
+    - essentials.heal
+    - essentials.fly
+    - essentials.tpa
+    - modifyworld.items.use
+    - modifyworld.blocks.interact
+schema-version: 1

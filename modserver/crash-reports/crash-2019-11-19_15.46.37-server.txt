@@ -1,0 +1,56 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+Contact their authors BEFORE contacting forge
+
+// This doesn't make any sense!
+
+Time: 19. 11. 19 오후 3:46
+Description: Exception in server tick loop
+
+java.lang.IllegalArgumentException: ChunkNibbleArrays should be 2048 bytes not: 0
+	at net.minecraft.world.chunk.NibbleArray.<init>(SourceFile:16)
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_75823_a(AnvilChunkLoader.java:434)
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.checkedReadChunkFromNBT__Async(AnvilChunkLoader.java:126)
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.loadChunk__Async(AnvilChunkLoader.java:91)
+	at net.minecraftforge.common.chunkio.ChunkIOProvider.run(ChunkIOProvider.java:69)
+	at net.minecraftforge.common.chunkio.ChunkIOExecutor.syncChunkLoad(ChunkIOExecutor.java:92)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:118)
+	at net.minecraft.world.gen.ChunkProviderServer.func_186028_c(ChunkProviderServer.java:89)
+	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:135)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:344)
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:314)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_221, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2301960592 bytes (2195 MB) / 3143630848 bytes (2998 MB) up to 3143630848 bytes (2998 MB)
+	JVM Flags: 2 total; -Xms3G -Xmx3G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.41 Powered by Forge 14.22.1.2478 6 mods loaded, 6 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State   | ID                | Version      | Source                              | Signature                                |
+	|:------- |:----------------- |:------------ |:----------------------------------- |:---------------------------------------- |
+	| UCHIJAA | minecraft         | 1.12.1       | minecraft.jar                       | None                                     |
+	| UCHIJAA | mcp               | 9.19         | minecraft.jar                       | None                                     |
+	| UCHIJAA | FML               | 8.0.99.99    | forge.jar                           | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAA | forge             | 14.22.1.2478 | forge.jar                           | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAA | mercurius_updater | 1.0          | MercuriusUpdater-1.12.1.jar         | None                                     |
+	| UCHIJAA | pixelmon          | 7.0.8        | Pixelmon-1.12.2-7.0.8-universal.jar | None                                     |
+
+	Loaded coremods (and transformers): 
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 2000000; []
+	Is Modded: Definitely; Server brand changed to 'fml,forge,sponge'
+	Type: Dedicated Server (map_server.txt)

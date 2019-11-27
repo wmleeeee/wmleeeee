@@ -1,0 +1,118 @@
+[15:48:19] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[15:48:19] [main/INFO] [FML/]: Forge Mod Loader version 14.22.1.2478 for Minecraft 1.12.1 loading
+[15:48:19] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_221, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_221
+[15:48:19] [main/DEBUG] [FML/]: Java classpath at launch is:
+[15:48:19] [main/DEBUG] [FML/]:     forge.jar
+[15:48:19] [main/DEBUG] [FML/]: Java library path at launch is:
+[15:48:19] [main/DEBUG] [FML/]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[15:48:19] [main/DEBUG] [FML/]:     C:\WINDOWS\Sun\Java\bin
+[15:48:19] [main/DEBUG] [FML/]:     C:\WINDOWS\system32
+[15:48:19] [main/DEBUG] [FML/]:     C:\WINDOWS
+[15:48:19] [main/DEBUG] [FML/]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[15:48:19] [main/DEBUG] [FML/]:     C:\WINDOWS\system32
+[15:48:19] [main/DEBUG] [FML/]:     C:\WINDOWS
+[15:48:19] [main/DEBUG] [FML/]:     C:\WINDOWS\System32\Wbem
+[15:48:19] [main/DEBUG] [FML/]:     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[15:48:19] [main/DEBUG] [FML/]:     C:\WINDOWS\System32\OpenSSH\
+[15:48:19] [main/DEBUG] [FML/]:     C:\Python27
+[15:48:19] [main/DEBUG] [FML/]:     C:\Program Files\7-Zip
+[15:48:19] [main/DEBUG] [FML/]:     
+[15:48:19] [main/DEBUG] [FML/]:     C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[15:48:19] [main/DEBUG] [FML/]:     C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[15:48:19] [main/DEBUG] [FML/]:     C:\Users\qpalw\AppData\Local\Microsoft\WindowsApps
+[15:48:19] [main/DEBUG] [FML/]:     C:\Program Files\Bandizip\
+[15:48:19] [main/DEBUG] [FML/]:     "C:\Windows
+[15:48:19] [main/DEBUG] [FML/]:     C:\Windows\System32
+[15:48:19] [main/DEBUG] [FML/]:     C:\Python27"
+[15:48:19] [main/DEBUG] [FML/]:     
+[15:48:19] [main/DEBUG] [FML/]:     .
+[15:48:19] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[15:48:19] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[15:48:19] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[15:48:19] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:48:19] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[15:48:19] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[15:48:19] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[15:48:19] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[15:48:19] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:48:19] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[15:48:19] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[15:48:19] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\qpalw\Desktop\modserver\.
+[15:48:19] [main/DEBUG] [FML/]: Adding net.minecraftforge:MercuriusUpdater (C:\Users\qpalw\Desktop\modserver\libraries\net\minecraftforge\MercuriusUpdater\1.12.1\MercuriusUpdater-1.12.1.jar) to the mod list
+[15:48:19] [main/DEBUG] [FML/]: Discovering coremods
+[15:48:19] [main/DEBUG] [FML/]: Examining for coremod candidacy MercuriusUpdater-1.12.1.jar
+[15:48:19] [main/DEBUG] [FML/]: Not found coremod data in MercuriusUpdater-1.12.1.jar
+[15:48:19] [main/DEBUG] [FML/]: Examining for coremod candidacy Pixelmon-1.12.2-7.0.8-universal.jar
+[15:48:19] [main/DEBUG] [FML/]: Not found coremod data in Pixelmon-1.12.2-7.0.8-universal.jar
+[15:48:19] [main/DEBUG] [FML/]: Examining for coremod candidacy spongeforge-1.12.2-2838-7.1.7.jar
+[15:48:19] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.1.7.jar
+[15:48:19] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:48:19] [main/INFO] [LaunchWrapper/]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[15:48:19] [main/DEBUG] [mixin/]: MixinService [LaunchWrapper] was successfully booted in sun.misc.Launcher$AppClassLoader@4aa298b7
+[15:48:19] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar Service=LaunchWrapper Env=SERVER
+[15:48:20] [main/DEBUG] [mixin/]: Adding new mixin transformer proxy #1
+[15:48:20] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[15:48:20] [main/DEBUG] [mixin/]: Mixin platform: primary container is file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar
+[15:48:20] [main/DEBUG] [mixin/]: Adding mixin platform agents for container file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar
+[15:48:20] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFML for file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar
+[15:48:20] [main/DEBUG] [mixin/]: spongeforge-1.12.2-2838-7.1.7.jar has core plugin org.spongepowered.mod.SpongeCoremod. Injecting it into FML for co-initialisation:
+[15:48:20] [main/DEBUG] [FML/]: Instantiating coremod class SpongeCoremod
+[15:48:20] [main/ERROR] [FML/]: The coremod org.spongepowered.mod.SpongeCoremod is requesting minecraft version 1.12.2 and minecraft is 1.12.1. It will be ignored.
+[15:48:20] [main/DEBUG] [mixin/]: Core plugin org.spongepowered.mod.SpongeCoremod could not be loaded.
+[15:48:20] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar
+[15:48:20] [main/DEBUG] [mixin/]: Scanning file:/C:/Users/qpalw/Desktop/modserver/forge.jar for mixin tweaker
+[15:48:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:48:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:48:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:48:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:48:20] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[15:48:20] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[15:48:20] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[PREINIT]
+[15:48:20] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[15:48:20] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[15:48:20] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[15:48:20] [main/DEBUG] [FML/]: Injection complete
+[15:48:20] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[15:48:20] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[15:48:20] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[15:48:20] [main/DEBUG] [FML/]: Read 1008 binary patches
+[15:48:20] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.12.1.lzma with 36083 records
+[15:48:21] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:48:21] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[15:48:21] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:48:21] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[15:48:21] [main/DEBUG] [FML/]: Injection complete
+[15:48:21] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[15:48:21] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[15:48:21] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[15:48:21] [main/INFO] [LaunchWrapper/]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[15:48:21] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar]
+[15:48:21] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar]
+[15:48:21] [main/DEBUG] [mixin/]: Processing launch tasks for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar]
+[15:48:21] [main/DEBUG] [mixin/]: Creating FML remapper adapter: org.spongepowered.asm.bridge.RemapperAdapterFML
+[15:48:21] [main/INFO] [mixin/]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@55caeb35
+[15:48:21] [main/DEBUG] [mixin/]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar]
+[15:48:21] [main/DEBUG] [mixin/]: Scanning file:/C:/Users/qpalw/Desktop/modserver/forge.jar for mixin tweaker
+[15:48:21] [main/DEBUG] [mixin/]: Scanning asmgen:/ for mixin tweaker
+[15:48:21] [main/DEBUG] [mixin/]: inject() running with 1 agents
+[15:48:21] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentFML:file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar]
+[15:48:21] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:file:/C:/Users/qpalw/Desktop/modserver/mods/spongeforge-1.12.2-2838-7.1.7.jar]
+[15:48:21] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:48:21] [main/DEBUG] [FML/]: Loaded 208 rules from AccessTransformer config file forge_at.cfg
+[15:48:21] [main/DEBUG] [FML/]: Loaded 42 rules from AccessTransformer mod jar file C:\Users\qpalw\Desktop\modserver\mods\spongeforge-1.12.2-2838-7.1.7.jar!META-INF/common_at.cfg
+
+[15:48:21] [main/DEBUG] [FML/]: Loaded 23 rules from AccessTransformer mod jar file C:\Users\qpalw\Desktop\modserver\mods\Pixelmon-1.12.2-7.0.8-universal.jar!META-INF/pixelmon_at.cfg
+
+[15:48:21] [main/DEBUG] [mixin/]: Adding new mixin transformer proxy #2
+[15:48:21] [main/DEBUG] [FML/]: Validating minecraft
+[15:48:21] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[INIT]
+[15:48:21] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[15:48:21] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:48:21] [main/INFO] [LaunchWrapper/]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[15:48:21] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:48:21] [main/INFO] [LaunchWrapper/]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[15:48:21] [main/DEBUG] [mixin/]: Adding new mixin transformer proxy #3
+[15:48:21] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[DEFAULT]
+[15:48:21] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:48:24] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[15:48:24] [main/DEBUG] [FML/]: Vanilla freeze snapshot created

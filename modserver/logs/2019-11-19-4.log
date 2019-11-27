@@ -1,0 +1,47 @@
+[16:05:47] [Server thread/INFO]: Starting minecraft server version 1.12.1
+[16:05:52] [Server thread/INFO]: Loading properties
+[16:05:52] [Server thread/INFO]: Default game type: SURVIVAL
+[16:05:52] [Server thread/INFO]: Generating keypair
+[16:05:52] [Server thread/INFO]: Starting Minecraft server on *:7474
+[16:05:52] [Server thread/INFO]: Using default channel type
+[16:05:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:05:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:05:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:05:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:06:02] [Server thread/INFO]: Preparing level "world"
+[16:06:02] [Server thread/INFO]: Loaded 703 advancements
+[16:06:02] [Server thread/INFO]: Preparing start region for level 0
+[16:06:03] [Server thread/INFO]: Done (1.794s)! For help, type "help" or "?"
+[16:08:49] [Server thread/INFO]: miok[/192.168.0.1:57124] logged in with entity id 10 at (-17.5, 72.0, 112.5)
+[16:08:49] [Server thread/INFO]: miok joined the game
+[16:09:15] [Server thread/INFO]: miok has made the advancement [You picked a starter!]
+[16:09:55] [Server thread/INFO]: choico[/180.71.101.81:57049] logged in with entity id 71 at (-10.5, 64.0, 117.5)
+[16:09:55] [Server thread/INFO]: choico joined the game
+[16:10:01] [Server thread/INFO]: choico has made the advancement [You picked a starter!]
+[16:10:25] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 6d46d59a-fbfc-49a1-998f-b82ebd89d099
+[16:12:08] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 9c2a3ef6-70e8-4dfa-911a-abd7c12262b6
+[16:12:46] [Server thread/INFO]: choico has made the advancement [Only took me four tries *Fist pump*]
+[16:12:46] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 9c2a3ef6-70e8-4dfa-911a-abd7c12262b6
+[16:12:55] [Server thread/INFO]: miok lost connection: Disconnected
+[16:12:55] [Server thread/INFO]: miok left the game
+[16:14:14] [Server thread/WARN]: choico moved wrongly!
+[16:14:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2126ms behind, skipping 42 tick(s)
+[16:14:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6468ms behind, skipping 129 tick(s)
+[16:14:49] [Server thread/WARN]: choico moved too quickly! 33.33512493263612,75.11898001747764,-3.6314203410665584
+[16:14:53] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[16:16:03] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 9c2a3ef6-70e8-4dfa-911a-abd7c12262b6
+[16:21:48] [Server thread/INFO]: choico has made the advancement [Stone Age]
+[16:25:10] [Server thread/INFO]: Opped choico
+[16:25:16] [Server thread/INFO]: [choico: Set own game mode to Creative Mode]
+[16:27:39] [Server thread/INFO]: [choico: Set own game mode to Survival Mode]
+[16:27:44] [Server thread/INFO]: [choico: Set own game mode to Creative Mode]
+[16:27:59] [Server thread/INFO]: [choico: Set own game mode to Survival Mode]
+[16:28:08] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 9c2a3ef6-70e8-4dfa-911a-abd7c12262b6
+[16:28:54] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 9c2a3ef6-70e8-4dfa-911a-abd7c12262b6
+[16:29:29] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 9c2a3ef6-70e8-4dfa-911a-abd7c12262b6
+[16:32:38] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 9c2a3ef6-70e8-4dfa-911a-abd7c12262b6
+[16:32:51] [Server thread/WARN]: Keeping entity pixelmon:pixelmon that already exists with UUID 9c2a3ef6-70e8-4dfa-911a-abd7c12262b6
+[16:32:55] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[16:33:01] [Server thread/INFO]: [Server] 병신아 뭐하냐
+[16:33:02] [Server thread/INFO]: choico has made the advancement [It's a Mystery!]
+[16:33:02] [Server thread/INFO]: choico has made the advancement [Well, it’s One for the Money]

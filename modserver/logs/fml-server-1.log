@@ -1,0 +1,77 @@
+[15:47:19] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[15:47:19] [main/INFO] [FML/]: Forge Mod Loader version 14.22.1.2478 for Minecraft 1.12.1 loading
+[15:47:19] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_221, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_221
+[15:47:19] [main/DEBUG] [FML/]: Java classpath at launch is:
+[15:47:19] [main/DEBUG] [FML/]:     forge.jar
+[15:47:19] [main/DEBUG] [FML/]: Java library path at launch is:
+[15:47:19] [main/DEBUG] [FML/]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[15:47:19] [main/DEBUG] [FML/]:     C:\WINDOWS\Sun\Java\bin
+[15:47:19] [main/DEBUG] [FML/]:     C:\WINDOWS\system32
+[15:47:19] [main/DEBUG] [FML/]:     C:\WINDOWS
+[15:47:19] [main/DEBUG] [FML/]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[15:47:19] [main/DEBUG] [FML/]:     C:\WINDOWS\system32
+[15:47:19] [main/DEBUG] [FML/]:     C:\WINDOWS
+[15:47:19] [main/DEBUG] [FML/]:     C:\WINDOWS\System32\Wbem
+[15:47:19] [main/DEBUG] [FML/]:     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[15:47:19] [main/DEBUG] [FML/]:     C:\WINDOWS\System32\OpenSSH\
+[15:47:19] [main/DEBUG] [FML/]:     C:\Python27
+[15:47:19] [main/DEBUG] [FML/]:     C:\Program Files\7-Zip
+[15:47:19] [main/DEBUG] [FML/]:     
+[15:47:19] [main/DEBUG] [FML/]:     C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[15:47:19] [main/DEBUG] [FML/]:     C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[15:47:19] [main/DEBUG] [FML/]:     C:\Users\qpalw\AppData\Local\Microsoft\WindowsApps
+[15:47:19] [main/DEBUG] [FML/]:     C:\Program Files\Bandizip\
+[15:47:19] [main/DEBUG] [FML/]:     "C:\Windows
+[15:47:19] [main/DEBUG] [FML/]:     C:\Windows\System32
+[15:47:19] [main/DEBUG] [FML/]:     C:\Python27"
+[15:47:19] [main/DEBUG] [FML/]:     
+[15:47:19] [main/DEBUG] [FML/]:     .
+[15:47:19] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[15:47:19] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[15:47:19] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[15:47:20] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:47:20] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[15:47:20] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[15:47:20] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[15:47:20] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[15:47:20] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:47:20] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[15:47:20] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[15:47:20] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\qpalw\Desktop\modserver\.
+[15:47:20] [main/DEBUG] [FML/]: Adding net.minecraftforge:MercuriusUpdater (C:\Users\qpalw\Desktop\modserver\libraries\net\minecraftforge\MercuriusUpdater\1.12.1\MercuriusUpdater-1.12.1.jar) to the mod list
+[15:47:20] [main/DEBUG] [FML/]: Discovering coremods
+[15:47:20] [main/DEBUG] [FML/]: Examining for coremod candidacy MercuriusUpdater-1.12.1.jar
+[15:47:20] [main/DEBUG] [FML/]: Not found coremod data in MercuriusUpdater-1.12.1.jar
+[15:47:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:47:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:47:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:47:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:47:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:47:20] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[15:47:20] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[15:47:20] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[15:47:20] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[15:47:20] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[15:47:20] [main/DEBUG] [FML/]: Injection complete
+[15:47:20] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[15:47:20] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[15:47:21] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[15:47:21] [main/DEBUG] [FML/]: Read 1008 binary patches
+[15:47:21] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.12.1.lzma with 36083 records
+[15:47:21] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:47:21] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[15:47:21] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:47:21] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[15:47:21] [main/DEBUG] [FML/]: Injection complete
+[15:47:21] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[15:47:21] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[15:47:21] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[15:47:21] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:47:21] [main/DEBUG] [FML/]: Loaded 208 rules from AccessTransformer config file forge_at.cfg
+[15:47:21] [main/DEBUG] [FML/]: Validating minecraft
+[15:47:21] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[15:47:21] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:47:21] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:47:22] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:47:24] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[15:47:24] [main/DEBUG] [FML/]: Vanilla freeze snapshot created

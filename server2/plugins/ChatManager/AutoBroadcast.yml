@@ -1,0 +1,49 @@
+Auto_Broadcast:
+  Global_Messages:
+    Enable: true
+    Header_And_Footer: true
+    Interval: 30
+    Prefix: "&7[&6AutoBroadcast&7]"
+    Header: "&7*&7&m--------------------------------&7*"
+    Footer: "&7*&7&m--------------------------------&7*"
+    Sound: ''
+    Messages:
+      - "{Prefix} &7안녕하세요."
+      - "{Prefix} &7꺼져"
+      - "{Prefix} &c{player} &7여긴 &c{online}명의 &7사람이 있어요."
+  Per_World_Messages:
+    Enable: true
+    Header_And_Footer: true
+    Interval: 60
+    Prefix: "&7[&6AutoBroadcast&7]"
+    Header: "&7*&7&m--------------------------------&7*"
+    Footer: "&7*&7&m--------------------------------&7*"
+    Sound: ''
+    Messages:
+      world:
+        - "{Prefix} &aㅗ"
+        - "{Prefix} &aHope you enjoy our server!"
+      world_nether:
+
+      world_the_end:
+
+  Actionbar_Messages:
+    Enable: true
+    Interval: 60
+    Prefix: "&7[&6AutoBroadcast&7]"
+    Sound: ''
+    Messages:
+      - "{Prefix} &7안녕하세요."
+      - "{Prefix} &7꺼져"
+      - "{Prefix} &c{player} &7여긴 &c{online}명의 &7사람이 있어요."
+  Per_World_Messages:
+
+  Title_Messages:
+    Enable: true
+    Interval: 60
+    Sound: ''
+    Title: "&cTitle"
+    Messages:
+      - "{Prefix} &7안녕하세요."
+      - "{Prefix} &7꺼져"
+      - "{Prefix} &c{player} &7여긴 &c{online}명의 &7사람이 있어요."

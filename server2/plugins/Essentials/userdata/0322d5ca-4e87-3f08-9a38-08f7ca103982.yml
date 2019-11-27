@@ -1,0 +1,24 @@
+lastAccountName: choico
+timestamps:
+  login: 1574837181691
+  logout: 1574837172870
+  lastteleport: 1574683906984
+  mute: 0
+  lastheal: 1574831715207
+ipAddress: 180.71.101.81
+lastlocation:
+  world: world
+  x: -61.85366977700507
+  y: 64.0
+  z: -261.5132971209505
+  yaw: 60.053635
+  pitch: 20.259819
+logoutlocation:
+  world: world
+  x: -58.5
+  y: 64.0
+  z: -257.5
+  yaw: -1.7818097
+  pitch: 0.1319859
+money: '638.51200000000000005'
+muted: false
